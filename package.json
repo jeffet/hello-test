@@ -13,5 +13,11 @@
     "express": "^4.15.3",
     "mocha": "^3.4.2",
     "request": "^2.81.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-mocha": "^3.0.1",
+    "mocha-jenkins-reporter": "^0.3.8",
+    "rewire": "^2.5.2"
   }
 }

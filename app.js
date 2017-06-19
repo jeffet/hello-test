@@ -8,6 +8,6 @@ app.get('/', function (req, res) {
 })
 
 //Launch listening server on port 8080
-app.listen(5757, function () {
+app.listen(8080, function () {
   console.log('App listening on port 8080!')
 })
