@@ -1,0 +1,17 @@
+{
+  "name": "hello-mocha",
+  "version": "1.0.0",
+  "description": "Hello world using mocha for testing",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Jtenn",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.0.2",
+    "express": "^4.15.3",
+    "mocha": "^3.4.2",
+    "request": "^2.81.0"
+  }
+}
